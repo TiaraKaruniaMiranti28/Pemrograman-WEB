@@ -1,0 +1,41 @@
+/* CSS Document */
+.leftlinks {
+	border: 1px solid pink;
+	padding: 5px;
+	margin: 5px;
+	text-align: middle;
+	background-color: pink;
+	width: 150px;
+}
+.leftlinks a {
+	display: block;
+	margin: 3px 0px;
+	border-top: 1px solid #DB7093;
+	border-left: 1px solid #DB7093;
+	border-right: 1px solid #8B0000;
+	border-bottom: 1px solid #8B0000;
+	padding: 4px 10px;
+	text-align: center;
+	background-color: #BC8F8F;
+	color: #FFE4E1;
+	text-decoration: none;
+}
+.leftlinks a: link {
+	color: #FFE4E1;
+}
+.leftlinks a: visited {
+	color: #FFE4E1;
+}
+.leftlinks a: hover {
+	display: block;
+	margin: 3px 0px;
+	border-top: 1px solid #8B0000;
+	border-left: 1px solid #8B0000;
+	border-bottom: 1px solid #8B0000;
+	border-right: 1px solid #8B0000;
+	padding: 5px 9px 3px 11px;
+	text-align: center;
+	background-color: #BC8F8F;
+	color: #FFE4E1;
+	text-decoration: none;
+}
